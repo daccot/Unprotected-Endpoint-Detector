@@ -56,7 +56,7 @@ The Pro version adds:
 - Custom output directory  
 
 👉 Get Pro version:  
-[PUT YOUR GUMROAD LINK HERE]
+Pro version coming soon.
 
 ---
 
