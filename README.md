@@ -64,7 +64,7 @@ The Pro version adds:
 - Custom output directory  
 
 👉 Get Pro version:  
-Pro version coming soon.
+https://daccotools.gumroad.com/l/unprotected-endpoint-detector-pro
 
 ---
 
@@ -74,3 +74,46 @@ Run from PowerShell:
 
 ```powershell
 powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\SecurityAudit-Free.ps1
+```
+
+---
+
+## Example Output
+
+```text
+[CRITICAL]
+No active antivirus signal was detected.
+```
+
+---
+
+## Who this is for
+
+- IT administrators  
+- MSP engineers  
+- Security audits  
+- RMM / Intune environments  
+
+---
+
+## Limitations
+
+- Uses Windows SecurityCenter2 (vendor-dependent)  
+- Third-party AV state may require vendor console verification  
+- No report export in Free version  
+
+---
+
+## License
+
+Free for personal and internal use.
+
+Do not resell or redistribute.
+
+---
+
+## Feedback
+
+Looking for feedback from real-world environments.
+
+If you use this in production, let me know what works and what doesn't.
