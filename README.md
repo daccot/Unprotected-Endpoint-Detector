@@ -60,6 +60,13 @@ Pro version coming soon.
 
 ---
 
+## Screenshot
+
+![Free version SAFE output](screenshots/free-safe-output1.png)
+![Free version SAFE output](screenshots/free-safe-output2.png)
+
+---
+
 ## Usage
 
 Run from PowerShell:
