@@ -41,6 +41,14 @@ The free version:
 - Prints results to the console  
 - Requires no installation  
 
+## Screenshots
+
+### Free version console output
+
+![Free version summary](screenshots/free-safe-output1.png)
+
+![Free version completion](screenshots/free-safe-output2.png)
+
 ---
 
 ## Pro Version
@@ -57,13 +65,6 @@ The Pro version adds:
 
 👉 Get Pro version:  
 Pro version coming soon.
-
----
-
-## Screenshot
-
-![Free version SAFE output](screenshots/free-safe-output1.png)
-![Free version SAFE output](screenshots/free-safe-output2.png)
 
 ---
 
