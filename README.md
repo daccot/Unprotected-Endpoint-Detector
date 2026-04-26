@@ -52,20 +52,23 @@ The free version:
 
 ---
 
-## Pro Version
+## Use cases
 
-The Pro version adds:
+- Quick endpoint security visibility checks
+- Defender / antivirus status review
+- RMM or Intune script testing
+- Small internal security audits
 
-- CSV report  
-- JSON report  
-- Color-coded HTML report  
-- Execution log  
-- RMM / Intune friendly exit codes  
-- Quiet mode (silent execution)  
-- Custom output directory  
+## Pro version
 
-👉 Get Pro version:  
+Need CSV, JSON, HTML reports, logs, and automation-friendly exit codes?
+
+Get Pro:
 https://daccotools.gumroad.com/l/unprotected-endpoint-detector-pro
+
+## Support the project
+
+If this helped you, please star the repository.
 
 ---
 
