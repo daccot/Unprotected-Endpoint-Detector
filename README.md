@@ -1,6 +1,7 @@
 # Unprotected Endpoint Detector Free
 
 Detect Windows endpoints with ZERO active protection.
+If this helped you, please star the repository.
 
 ---
 
